@@ -1,0 +1,7 @@
+<?php
+	System::$Configuration["Application.Title"] = "Concertroid Online";
+	System::$Configuration["Application.Theme"] = "marine";
+	System::$Configuration["Application.BasePath"] = "";
+	
+	System::$Configuration["WebFramework.StaticPath"] = "http://static.yourdomain.net/";
+?>
